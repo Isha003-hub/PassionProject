@@ -1,0 +1,43 @@
+﻿@model MuseAndMasterpiece.Models.UpdateArtworkDto
+
+<form asp-action="Edit" asp-controller="ArtworkPage" method="post">
+    @Html.AntiForgeryToken()
+    <input type="hidden" asp-for="ArtWorkId" />
+
+    <div class="form-group">
+        <label for="Title">Artwork Title</label>
+        <input type="text" class="form-control" id="Title" name="Title" asp-for="Title" required />
+    </div>
+
+    <div class="form-group">
+        <label for="ArtistId">Artist</label>
+        <select class="form-control" id="ArtistId" name="ArtistId" asp-for="ArtistId" asp-items="Model.Artists" required>
+            <option value="">Select an Artist</option>
+        </select>
+    </div>
+
+    <div class="form-group">
+        <label for="CategoryId">Category</label>
+        <select class="form-control" id="CategoryId" name="CategoryId" asp-for="CategoryId" asp-items="Model.Categories" required>
+            <option value="">Select a Category</option>
+        </select>
+    </div>
+
+    <div class="form-group">
+        <label for="DatePosted">Date Posted</label>
+        <input type="date" class="form-control" id="DatePosted" name="DatePosted" asp-for="DatePosted" required />
+    </div>
+
+    <div class="form-group">
+        <label for="Description">Description</label>
+        <textarea class="form-control" id="Description" name="Description" asp-for="Description" rows="4" required></textarea>
+    </div>
+
+    <div class="form-group text-center">
+        <button type="submit" class="btn btn-success btn-lg">Update Artwork</button>
+    </div>
+</form>
+
+<div class="text-center my-3">
+    <a asp-action="List" class="btn btn-primary btn-sm">Back to List</a>
+</div>

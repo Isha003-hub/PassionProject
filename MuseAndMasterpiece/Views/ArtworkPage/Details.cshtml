@@ -1,0 +1,21 @@
+﻿@model MuseAndMasterpiece.Models.ArtworkDto
+
+<div class="text-center">
+    <h1>Artwork Details</h1>
+</div>
+
+<div class="artwork-info">
+    <p><strong>Id:</strong> @Model.ArtWorkId</p>
+    <p><strong>Title:</strong> @Model.Title</p>
+    <p><strong>Category:</strong> @Model.CategoryName</p>
+    <p><strong>Artist:</strong> @Model.ArtistName</p>
+    <p><strong>Date Posted:</strong> @Model.DatePosted</p>
+</div>
+
+<hr />
+
+<div class="btn-group text-center my-3">
+    <a asp-action="List" class="btn btn-primary btn-sm">Back to List</a>
+    <a asp-action="Edit" asp-route-id="@Model.ArtWorkId" class="btn btn-warning btn-sm mx-2">Edit</a>
+    <a asp-action="Delete" asp-route-id="@Model.ArtWorkId" class="btn btn-danger btn-sm">Delete</a>
+</div>

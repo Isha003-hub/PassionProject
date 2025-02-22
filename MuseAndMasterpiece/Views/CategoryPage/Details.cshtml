@@ -1,0 +1,37 @@
+﻿@model MuseAndMasterpiece.Models.CategoryDto
+
+<div class="text-center">
+    <h1>Category Details</h1>
+</div>
+
+<div class="category-info">
+    <p><strong>Id:</strong> @Model.CategoryId</p>
+    <p><strong>Name:</strong> @Model.CName</p>
+    <p><strong>Date Created:</strong> @Model.DateCreated</p>
+    <p><strong>Total Artworks:</strong> @Model.TotalArtworks</p>
+</div>
+
+<hr />
+
+<h3 class="text-center my-4">Artworks</h3>
+@if (Model.ArtworksTitle != null && Model.ArtworksTitle.Any())
+{
+    <ul>
+        @foreach (var title in Model.ArtworksTitle)
+        {
+            <li>@title</li>
+        }
+    </ul>
+}
+else
+{
+    <p>No artworks found in this category.</p>
+}
+
+<hr />
+
+<div class="btn-group text-center my-3">
+    <a asp-action="List" class="btn btn-primary btn-sm">Back to List</a>
+    <a asp-action="Edit" asp-route-id="@Model.CategoryId" class="btn btn-warning btn-sm mx-2">Edit</a>
+    <a asp-action="Delete" asp-route-id="@Model.CategoryId" class="btn btn-danger btn-sm">Delete</a>
+</div>

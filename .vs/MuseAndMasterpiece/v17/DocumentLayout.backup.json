@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ISHA\\OneDrive\\Documents\\HUMBER\\Semester - 2\\HTTP-5226 - Back-End Web Development 2\\MuseAndMasterpiece\\MuseAndMasterpiece\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D90FB948-C71E-40D5-B5C7-647258DF5B1B}|MuseAndMasterpiece\\MuseAndMasterpiece.csproj|c:\\users\\isha\\onedrive\\documents\\humber\\semester - 2\\http-5226 - back-end web development 2\\museandmasterpiece\\museandmasterpiece\\museandmasterpiece\\views\\artworkpage\\confirmdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D90FB948-C71E-40D5-B5C7-647258DF5B1B}|MuseAndMasterpiece\\MuseAndMasterpiece.csproj|solutionrelative:museandmasterpiece\\views\\artworkpage\\confirmdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D90FB948-C71E-40D5-B5C7-647258DF5B1B}|MuseAndMasterpiece\\MuseAndMasterpiece.csproj|c:\\users\\isha\\onedrive\\documents\\humber\\semester - 2\\http-5226 - back-end web development 2\\museandmasterpiece\\museandmasterpiece\\museandmasterpiece\\controllers\\artworkpagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D90FB948-C71E-40D5-B5C7-647258DF5B1B}|MuseAndMasterpiece\\MuseAndMasterpiece.csproj|solutionrelative:museandmasterpiece\\controllers\\artworkpagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D90FB948-C71E-40D5-B5C7-647258DF5B1B}|MuseAndMasterpiece\\MuseAndMasterpiece.csproj|c:\\users\\isha\\onedrive\\documents\\humber\\semester - 2\\http-5226 - back-end web development 2\\museandmasterpiece\\museandmasterpiece\\museandmasterpiece\\services\\artworkservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D90FB948-C71E-40D5-B5C7-647258DF5B1B}|MuseAndMasterpiece\\MuseAndMasterpiece.csproj|solutionrelative:museandmasterpiece\\services\\artworkservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D90FB948-C71E-40D5-B5C7-647258DF5B1B}|MuseAndMasterpiece\\MuseAndMasterpiece.csproj|c:\\users\\isha\\onedrive\\documents\\humber\\semester - 2\\http-5226 - back-end web development 2\\museandmasterpiece\\museandmasterpiece\\museandmasterpiece\\controllers\\artistscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D90FB948-C71E-40D5-B5C7-647258DF5B1B}|MuseAndMasterpiece\\MuseAndMasterpiece.csproj|solutionrelative:museandmasterpiece\\controllers\\artistscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D90FB948-C71E-40D5-B5C7-647258DF5B1B}|MuseAndMasterpiece\\MuseAndMasterpiece.csproj|c:\\users\\isha\\onedrive\\documents\\humber\\semester - 2\\http-5226 - back-end web development 2\\museandmasterpiece\\museandmasterpiece\\museandmasterpiece\\controllers\\artistpagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D90FB948-C71E-40D5-B5C7-647258DF5B1B}|MuseAndMasterpiece\\MuseAndMasterpiece.csproj|solutionrelative:museandmasterpiece\\controllers\\artistpagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D90FB948-C71E-40D5-B5C7-647258DF5B1B}|MuseAndMasterpiece\\MuseAndMasterpiece.csproj|c:\\users\\isha\\onedrive\\documents\\humber\\semester - 2\\http-5226 - back-end web development 2\\museandmasterpiece\\museandmasterpiece\\museandmasterpiece\\controllers\\categorypagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D90FB948-C71E-40D5-B5C7-647258DF5B1B}|MuseAndMasterpiece\\MuseAndMasterpiece.csproj|solutionrelative:museandmasterpiece\\controllers\\categorypagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConfirmDelete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ISHA\\OneDrive\\Documents\\HUMBER\\Semester - 2\\HTTP-5226 - Back-End Web Development 2\\MuseAndMasterpiece\\MuseAndMasterpiece\\MuseAndMasterpiece\\Views\\ArtworkPage\\ConfirmDelete.cshtml",
+              "RelativeDocumentMoniker": "MuseAndMasterpiece\\Views\\ArtworkPage\\ConfirmDelete.cshtml",
+              "ToolTip": "C:\\Users\\ISHA\\OneDrive\\Documents\\HUMBER\\Semester - 2\\HTTP-5226 - Back-End Web Development 2\\MuseAndMasterpiece\\MuseAndMasterpiece\\MuseAndMasterpiece\\Views\\ArtworkPage\\ConfirmDelete.cshtml",
+              "RelativeToolTip": "MuseAndMasterpiece\\Views\\ArtworkPage\\ConfirmDelete.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAswBAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-22T02:35:34.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ArtworkService.cs",
+              "DocumentMoniker": "C:\\Users\\ISHA\\OneDrive\\Documents\\HUMBER\\Semester - 2\\HTTP-5226 - Back-End Web Development 2\\MuseAndMasterpiece\\MuseAndMasterpiece\\MuseAndMasterpiece\\Services\\ArtworkService.cs",
+              "RelativeDocumentMoniker": "MuseAndMasterpiece\\Services\\ArtworkService.cs",
+              "ToolTip": "C:\\Users\\ISHA\\OneDrive\\Documents\\HUMBER\\Semester - 2\\HTTP-5226 - Back-End Web Development 2\\MuseAndMasterpiece\\MuseAndMasterpiece\\MuseAndMasterpiece\\Services\\ArtworkService.cs",
+              "RelativeToolTip": "MuseAndMasterpiece\\Services\\ArtworkService.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T02:29:44.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ArtistsController.cs",
+              "DocumentMoniker": "C:\\Users\\ISHA\\OneDrive\\Documents\\HUMBER\\Semester - 2\\HTTP-5226 - Back-End Web Development 2\\MuseAndMasterpiece\\MuseAndMasterpiece\\MuseAndMasterpiece\\Controllers\\ArtistsController.cs",
+              "RelativeDocumentMoniker": "MuseAndMasterpiece\\Controllers\\ArtistsController.cs",
+              "ToolTip": "C:\\Users\\ISHA\\OneDrive\\Documents\\HUMBER\\Semester - 2\\HTTP-5226 - Back-End Web Development 2\\MuseAndMasterpiece\\MuseAndMasterpiece\\MuseAndMasterpiece\\Controllers\\ArtistsController.cs",
+              "RelativeToolTip": "MuseAndMasterpiece\\Controllers\\ArtistsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T20:45:32.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CategoryPageController.cs",
+              "DocumentMoniker": "C:\\Users\\ISHA\\OneDrive\\Documents\\HUMBER\\Semester - 2\\HTTP-5226 - Back-End Web Development 2\\MuseAndMasterpiece\\MuseAndMasterpiece\\MuseAndMasterpiece\\Controllers\\CategoryPageController.cs",
+              "RelativeDocumentMoniker": "MuseAndMasterpiece\\Controllers\\CategoryPageController.cs",
+              "ToolTip": "C:\\Users\\ISHA\\OneDrive\\Documents\\HUMBER\\Semester - 2\\HTTP-5226 - Back-End Web Development 2\\MuseAndMasterpiece\\MuseAndMasterpiece\\MuseAndMasterpiece\\Controllers\\CategoryPageController.cs",
+              "RelativeToolTip": "MuseAndMasterpiece\\Controllers\\CategoryPageController.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAADwv5wAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T20:47:32.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArtworkPageController.cs",
+              "DocumentMoniker": "C:\\Users\\ISHA\\OneDrive\\Documents\\HUMBER\\Semester - 2\\HTTP-5226 - Back-End Web Development 2\\MuseAndMasterpiece\\MuseAndMasterpiece\\MuseAndMasterpiece\\Controllers\\ArtworkPageController.cs",
+              "RelativeDocumentMoniker": "MuseAndMasterpiece\\Controllers\\ArtworkPageController.cs",
+              "ToolTip": "C:\\Users\\ISHA\\OneDrive\\Documents\\HUMBER\\Semester - 2\\HTTP-5226 - Back-End Web Development 2\\MuseAndMasterpiece\\MuseAndMasterpiece\\MuseAndMasterpiece\\Controllers\\ArtworkPageController.cs",
+              "RelativeToolTip": "MuseAndMasterpiece\\Controllers\\ArtworkPageController.cs",
+              "ViewState": "AgIAAJcAAAAAAAAAAAAqwKgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T20:46:26.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ArtistPageController.cs",
+              "DocumentMoniker": "C:\\Users\\ISHA\\OneDrive\\Documents\\HUMBER\\Semester - 2\\HTTP-5226 - Back-End Web Development 2\\MuseAndMasterpiece\\MuseAndMasterpiece\\MuseAndMasterpiece\\Controllers\\ArtistPageController.cs",
+              "RelativeDocumentMoniker": "MuseAndMasterpiece\\Controllers\\ArtistPageController.cs",
+              "ToolTip": "C:\\Users\\ISHA\\OneDrive\\Documents\\HUMBER\\Semester - 2\\HTTP-5226 - Back-End Web Development 2\\MuseAndMasterpiece\\MuseAndMasterpiece\\MuseAndMasterpiece\\Controllers\\ArtistPageController.cs",
+              "RelativeToolTip": "MuseAndMasterpiece\\Controllers\\ArtistPageController.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAADwv5YAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T20:46:04.187Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

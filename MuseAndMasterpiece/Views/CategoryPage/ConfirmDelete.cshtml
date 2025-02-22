@@ -1,0 +1,16 @@
+﻿@model MuseAndMasterpiece.Models.CategoryDto
+
+<div class="text-center">
+    <h1>Delete Category</h1>
+</div>
+
+<div class="alert alert-warning text-center">
+    <p>Are you sure you want to delete the category <strong>@Model.CName</strong>?</p>
+</div>
+
+<form asp-action="Delete" asp-controller="CategoryPage" asp-route-id="@Model.CategoryId" method="post">
+    <div class="form-group text-center">
+        <button type="submit" class="btn btn-danger btn-lg">Delete</button>
+        <a asp-action="Index" asp-route-id="@Model.CategoryId" class="btn btn-secondary btn-lg mx-2">Cancel</a>
+    </div>
+</form>

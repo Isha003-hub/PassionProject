@@ -1,0 +1,35 @@
+﻿@model MuseAndMasterpiece.Models.AddArtistDto
+
+<div class="text-center">
+    <h1>Add Artist</h1>
+</div>
+
+<form asp-action="Add" method="post">
+    @Html.AntiForgeryToken()
+
+    <div class="form-group">
+        <label for="Name">Artist Name</label>
+        <input type="text" class="form-control" id="Name" name="Name" value="@Model?.Name" required />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label for="Bio">Artist Bio</label>
+        <textarea class="form-control" id="Bio" name="Bio" rows="4" required>@Model?.Bio</textarea>
+        <span asp-validation-for="Bio" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label for="Email">Artist Email</label>
+        <input type="email" class="form-control" id="Email" name="Email" value="@Model?.Email" required />
+        <span asp-validation-for="Email" class="text-danger"></span>
+    </div>
+
+    <div class="form-group text-center">
+        <button type="submit" class="btn btn-success btn-lg">Add Artist</button>
+    </div>
+</form>
+
+<div class="text-center my-3">
+    <a asp-action="List" class="btn btn-primary btn-sm">Back to List</a>
+</div>

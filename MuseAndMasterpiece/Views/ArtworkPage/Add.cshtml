@@ -1,0 +1,42 @@
+﻿@model MuseAndMasterpiece.Models.AddArtworkDto
+
+<form asp-action="AddArtwork" asp-controller="ArtworkPage" method="post">
+    @Html.AntiForgeryToken()
+
+    <div class="form-group">
+        <label for="Title">Artwork Title</label>
+        <input type="text" class="form-control" id="Title" name="Title" required />
+    </div>
+
+    <div class="form-group">
+        <label for="ArtistId">Artist</label>
+        <select class="form-control" id="ArtistId" name="ArtistId" asp-items="Model.Artists" required>
+            <option value="">Select an Artist</option>
+        </select>
+    </div>
+
+    <div class="form-group">
+        <label for="CategoryId">Category</label>
+        <select class="form-control" id="CategoryId" name="CategoryId" asp-items="Model.Categories" required>
+            <option value="">Select a Category</option>
+        </select>
+    </div>
+
+    <div class="form-group">
+        <label for="DatePosted">Date Posted</label>
+        <input type="date" class="form-control" id="DatePosted" name="DatePosted" required />
+    </div>
+
+    <div class="form-group">
+        <label for="Description">Description</label>
+        <textarea class="form-control" id="Description" name="Description" rows="4" required></textarea>
+    </div>
+
+    <div class="form-group text-center">
+        <button type="submit" class="btn btn-success btn-lg">Add Artwork</button>
+    </div>
+</form>
+
+<div class="text-center my-3">
+    <a asp-action="List" class="btn btn-primary btn-sm">Back to List</a>
+</div>

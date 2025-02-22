@@ -1,0 +1,125 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MuseAndMasterpiece
+build_property.RootNamespace = MuseAndMasterpiece
+build_property.ProjectDir = C:\Users\ISHA\OneDrive\Documents\HUMBER\Semester - 2\HTTP-5226 - Back-End Web Development 2\MuseAndMasterpiece\MuseAndMasterpiece\MuseAndMasterpiece\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\ISHA\OneDrive\Documents\HUMBER\Semester - 2\HTTP-5226 - Back-End Web Development 2\MuseAndMasterpiece\MuseAndMasterpiece\MuseAndMasterpiece
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/ISHA/OneDrive/Documents/HUMBER/Semester - 2/HTTP-5226 - Back-End Web Development 2/MuseAndMasterpiece/MuseAndMasterpiece/MuseAndMasterpiece/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ISHA/OneDrive/Documents/HUMBER/Semester - 2/HTTP-5226 - Back-End Web Development 2/MuseAndMasterpiece/MuseAndMasterpiece/MuseAndMasterpiece/Views/ArtistPage/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0aXN0UGFnZVxBZGQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ISHA/OneDrive/Documents/HUMBER/Semester - 2/HTTP-5226 - Back-End Web Development 2/MuseAndMasterpiece/MuseAndMasterpiece/MuseAndMasterpiece/Views/ArtistPage/ConfirmDelete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0aXN0UGFnZVxDb25maXJtRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ISHA/OneDrive/Documents/HUMBER/Semester - 2/HTTP-5226 - Back-End Web Development 2/MuseAndMasterpiece/MuseAndMasterpiece/MuseAndMasterpiece/Views/ArtistPage/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0aXN0UGFnZVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ISHA/OneDrive/Documents/HUMBER/Semester - 2/HTTP-5226 - Back-End Web Development 2/MuseAndMasterpiece/MuseAndMasterpiece/MuseAndMasterpiece/Views/ArtistPage/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0aXN0UGFnZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ISHA/OneDrive/Documents/HUMBER/Semester - 2/HTTP-5226 - Back-End Web Development 2/MuseAndMasterpiece/MuseAndMasterpiece/MuseAndMasterpiece/Views/ArtistPage/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0aXN0UGFnZVxMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ISHA/OneDrive/Documents/HUMBER/Semester - 2/HTTP-5226 - Back-End Web Development 2/MuseAndMasterpiece/MuseAndMasterpiece/MuseAndMasterpiece/Views/ArtworkPage/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0d29ya1BhZ2VcQWRkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ISHA/OneDrive/Documents/HUMBER/Semester - 2/HTTP-5226 - Back-End Web Development 2/MuseAndMasterpiece/MuseAndMasterpiece/MuseAndMasterpiece/Views/ArtworkPage/ConfirmDelete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0d29ya1BhZ2VcQ29uZmlybURlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ISHA/OneDrive/Documents/HUMBER/Semester - 2/HTTP-5226 - Back-End Web Development 2/MuseAndMasterpiece/MuseAndMasterpiece/MuseAndMasterpiece/Views/ArtworkPage/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0d29ya1BhZ2VcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ISHA/OneDrive/Documents/HUMBER/Semester - 2/HTTP-5226 - Back-End Web Development 2/MuseAndMasterpiece/MuseAndMasterpiece/MuseAndMasterpiece/Views/ArtworkPage/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0d29ya1BhZ2VcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ISHA/OneDrive/Documents/HUMBER/Semester - 2/HTTP-5226 - Back-End Web Development 2/MuseAndMasterpiece/MuseAndMasterpiece/MuseAndMasterpiece/Views/ArtworkPage/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0d29ya1BhZ2VcTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ISHA/OneDrive/Documents/HUMBER/Semester - 2/HTTP-5226 - Back-End Web Development 2/MuseAndMasterpiece/MuseAndMasterpiece/MuseAndMasterpiece/Views/CategoryPage/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlQYWdlXEFkZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ISHA/OneDrive/Documents/HUMBER/Semester - 2/HTTP-5226 - Back-End Web Development 2/MuseAndMasterpiece/MuseAndMasterpiece/MuseAndMasterpiece/Views/CategoryPage/ConfirmDelete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlQYWdlXENvbmZpcm1EZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ISHA/OneDrive/Documents/HUMBER/Semester - 2/HTTP-5226 - Back-End Web Development 2/MuseAndMasterpiece/MuseAndMasterpiece/MuseAndMasterpiece/Views/CategoryPage/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlQYWdlXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ISHA/OneDrive/Documents/HUMBER/Semester - 2/HTTP-5226 - Back-End Web Development 2/MuseAndMasterpiece/MuseAndMasterpiece/MuseAndMasterpiece/Views/CategoryPage/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlQYWdlXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ISHA/OneDrive/Documents/HUMBER/Semester - 2/HTTP-5226 - Back-End Web Development 2/MuseAndMasterpiece/MuseAndMasterpiece/MuseAndMasterpiece/Views/CategoryPage/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlQYWdlXExpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ISHA/OneDrive/Documents/HUMBER/Semester - 2/HTTP-5226 - Back-End Web Development 2/MuseAndMasterpiece/MuseAndMasterpiece/MuseAndMasterpiece/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ISHA/OneDrive/Documents/HUMBER/Semester - 2/HTTP-5226 - Back-End Web Development 2/MuseAndMasterpiece/MuseAndMasterpiece/MuseAndMasterpiece/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ISHA/OneDrive/Documents/HUMBER/Semester - 2/HTTP-5226 - Back-End Web Development 2/MuseAndMasterpiece/MuseAndMasterpiece/MuseAndMasterpiece/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ISHA/OneDrive/Documents/HUMBER/Semester - 2/HTTP-5226 - Back-End Web Development 2/MuseAndMasterpiece/MuseAndMasterpiece/MuseAndMasterpiece/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ISHA/OneDrive/Documents/HUMBER/Semester - 2/HTTP-5226 - Back-End Web Development 2/MuseAndMasterpiece/MuseAndMasterpiece/MuseAndMasterpiece/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ISHA/OneDrive/Documents/HUMBER/Semester - 2/HTTP-5226 - Back-End Web Development 2/MuseAndMasterpiece/MuseAndMasterpiece/MuseAndMasterpiece/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ISHA/OneDrive/Documents/HUMBER/Semester - 2/HTTP-5226 - Back-End Web Development 2/MuseAndMasterpiece/MuseAndMasterpiece/MuseAndMasterpiece/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ISHA/OneDrive/Documents/HUMBER/Semester - 2/HTTP-5226 - Back-End Web Development 2/MuseAndMasterpiece/MuseAndMasterpiece/MuseAndMasterpiece/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-glfta6jqye
