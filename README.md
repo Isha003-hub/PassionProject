@@ -64,4 +64,5 @@
 
 ## Contact
 
-For any queries or suggestions, reach out to [Isha Shah]github.com/Isha003-hub
+For any queries or suggestions, reach out to [Isha Shah](https://github.com/Isha003-hub).
+
