@@ -34,9 +34,9 @@
 - *Authentication: Identity Framework *(To be executed in future)
 
 ## Design and Architecture
-# Service Layer & Interfaces
+### Service Layer & Interfaces
 - Implemented a service layer to handle business logic and data operations, providing flexibility and making testing easier.
-# Entity Framework
+### Entity Framework
 - Utilized Entity Framework for data access, ensuring efficient interaction with the SQL Server database.
 
 ## Setup Instructions
